@@ -1,0 +1,4 @@
+.next = archivos de configuracion de next-js
+
+components = elementos envueltos por un solo contenedor que transfiere propiedades a otras páginas.
+  |- cart : las funciones que aparecen al entrar al carrito de compras
